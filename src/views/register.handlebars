@@ -1,0 +1,29 @@
+    <main class="d-flex justify-content-center align-items-center bkg">
+        <div class="container">
+            <div class="row">
+                <div class="col-6 d-flex flex-column">
+                    <h3>User register</h3>
+                    <form id="productsForm" enctype="multipart/form-data" action="/api/auth/signup", method="POST">
+                        <fieldset class="mb-2">
+                            <label for="productName" class="form-label">Name</label>
+                            <input type="text" class="form-control" name="name" id="productName" />
+                        </fieldset>
+                        <fieldset class="mb-2">
+                            <label for="productLast_Name" class="form-label">Last Name</label>
+                            <input type="text" class="form-control" name="last_name" id="productLast_Name" />
+                        </fieldset>
+                        <fieldset class="mb-2">
+                            <label for="productNumber" class="form-label">Age</label>
+                            <input type="number" class="form-control" name="age" id="productNumber" />
+                        </fieldset>
+                        <div class="mb-2">
+                            <label for="productPhoto" class="form-label">Photo</label>
+                            <input type="file" class="form-control" name="url_photo" id="productPhoto" aria-describedby="photoSource"/>
+                        </div>
+                        <button id='newProduct' type="submit" class="btn btn-danger mt-2">Sign Up!</button>
+                    </form>
+                </div>
+            <div id="productTable" class="col-6"></div>
+            </div>
+        </div>
+    </main>
