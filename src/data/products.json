@@ -1,0 +1,98 @@
+[
+  {
+    "title": "zapatilla nike",
+    "description": " zapatilla nike deport max",
+    "price": 18000,
+    "thumbnail": "./public/img/img01.jpg",
+    "stock": 537,
+    "id": 1
+  },
+  {
+    "title": "zapatilla nike",
+    "description": " zapatilla nike ultra pro",
+    "price": 80000,
+    "thumbnail": "./public/img/img02.jpg",
+    "stock": 12,
+    "id": 2
+  },
+  {
+    "title": "zapatilla nike",
+    "description": " zapatilla nike atomic",
+    "price": 90,
+    "thumbnail": "./public/img/img03.jpg",
+    "stock": 33,
+    "id": 3
+  },
+  {
+    "title": "zapatilla nike",
+    "description": " zapatilla nike sattic pro",
+    "price": 18000,
+    "thumbnail": "./public/img/img04.jpg",
+    "stock": 97,
+    "id": 4
+  },
+  {
+    "title": "zapatilla nike",
+    "description": " zapatilla nike clasic electra ",
+    "price": 5064,
+    "thumbnail": "./public/img/img05.jpg",
+    "stock": 67,
+    "id": 5
+  },
+  {
+    "title": "zapatilla nike",
+    "description": " zapatilla nike vestirr ultra",
+    "price": 60000,
+    "thumbnail": "./public/img/img06.jpg",
+    "stock": 100,
+    "id": 6
+  },
+  {
+    "title": "zapatilla nike",
+    "description": " zapatilla nike clasic ",
+    "price": 35000,
+    "thumbnail": "./public/img/img07.jpg",
+    "stock": 99,
+    "id": 7
+  },
+  {
+    "title": "zapatilla nike",
+    "description": " zapatilla nike urbana",
+    "price": 80000,
+    "thumbnail": "./public/img/img08.jpg",
+    "stock": 95,
+    "id": 8
+  },
+  {
+    "title": "zapatilla nike",
+    "description": "zapatilla nike standar",
+    "price": 90,
+    "thumbnail": "./public/img/img09.jpg",
+    "stock": 91,
+    "id": 9
+  },
+  {
+    "title": "zapatilla nike",
+    "description": "zapatilla nike flex dinamic",
+    "price": 18000,
+    "thumbnail": "./public/img/img10.jpg",
+    "stock": 100,
+    "id": 10
+  },
+  {
+    "title": "zapatilla nike",
+    "description": "Zapatilla nike Aero deportiva",
+    "price": 2000,
+    "thumbnail": "./public/img/img011.jpg",
+    "stock": 93,
+    "id": 11
+  },
+  {
+    "title": "zapatilla nike",
+    "description": "Zapatilla nike Aero",
+    "price": 2000,
+    "thumbnail": "./public/img/Nike.jpg",
+    "stock": 93,
+    "id": 11
+  }
+]
